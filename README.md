@@ -1,1 +1,2 @@
-this is an idea of landing page using html and css only of nike shoes
+You can check this website by clicking on this link given below
+https://fascinating-kataifi-b4043c.netlify.app/
